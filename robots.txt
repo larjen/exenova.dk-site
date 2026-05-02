@@ -6,3 +6,5 @@ Allow: /
 
 User-agent: Twitterbot
 Allow: /
+
+Sitemap: https://exenova.dk/sitemap-index.xml
