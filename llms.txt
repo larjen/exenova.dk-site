@@ -20,7 +20,7 @@ Currently exploring AI: limits, possibilities and impact. I believe that applied
 - [Systems Developer – Zmags](https://exenova.dk/positions/systems-developer-zmags/): Apr 2012 – Jun 2012. Reviewed Zmags’ core application architecture and behaviour on mobile devices.
 - [Frontend Architect – Theilgaard Mortensen A/S](https://exenova.dk/positions/frontend-architect-theilgaard-mortensen-a-s/): Jan 2011 – Apr 2012. Led frontend architecture for e-commerce clients using IBM WebSphere Commerce, with a development team in India.
 - [Systems Developer – TRIPLE LBi](https://exenova.dk/positions/systems-developer-triple-lbi/): Jun 2008 – Dec 2010. Coordinated frontend delivery and build systems as a technical project manager at TRIPLE LBi.
-- [Systems Developer – FIH Erhvervsbank](https://exenova.dk/positions/systems-developer-fih-erhvervsbank/): Mar 2008 – May 2008. Worked as the sole developer of FIH Erhvervsbank’s online banking application for private investors.
+- [Systems Developer – FIH Erhvervsbank](https://exenova.dk/positions/systems-developer-fih-erhvervsbank/): Mar 2008 – May 2008. Worked as lead developer of FIH Erhvervsbank’s online banking application for private investors.
 - [Systems Developer – Framfab](https://exenova.dk/positions/systems-developer-framfab/): Jan 2006 – Mar 2008. Developed and integrated client websites and applications at Framfab.
 - [Systems Developer – Realtime A/S](https://exenova.dk/positions/systems-developer-realtime-a-s/): Dec 2001 – Feb 2002. Developed browser applications and integrations during a fixed-term contract at Realtime.
 - [Self-employed – Exenova](https://exenova.dk/positions/self-employed-exenova/): Sep 2000 – Dec 2003. Ran Exenova as an independent web-development business alongside studies.
