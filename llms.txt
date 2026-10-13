@@ -38,15 +38,15 @@ Currently exploring AI: limits, possibilities and impact. I believe that applied
 
 ## Competencies
 
-- [AI, Data & Emerging Technology](https://exenova.dk/competencies/ai-data-and-emerging-technology/): Building software and knowledge workflows with AI, structured data and semantic search.
 - [Business & Product Strategy](https://exenova.dk/competencies/business-and-product-strategy/): Setting business and product strategy: market positioning, P&L, strategic partnerships, M&A and product roadmap.
-- [Client & Vendor Management](https://exenova.dk/competencies/client-and-vendor-management/): Working with clients and partners on scope, solution advisory, delivery and support.
-- [Community, Volunteering & Events](https://exenova.dk/competencies/community-volunteering-and-events/): Planning volunteer activities and facilitating participation, with experience in camps and year-round programmes.
-- [Design & User Experience](https://exenova.dk/competencies/design-and-user-experience/): Designing user-centred interfaces and activities, informed by user research and usability testing.
 - [Leadership & People Management](https://exenova.dk/competencies/leadership-and-people-management/): Leading teams through organizational change, and developing people.
-- [Marketing, Sales & Communication](https://exenova.dk/competencies/marketing-sales-and-communication/): Planning online campaigns and content that drive conversion, alongside sales enablement and client communication.
-- [Project & Programme Delivery](https://exenova.dk/competencies/project-and-programme-delivery/): Planning work with clients and teams, coordinating delivery and improving delivery processes.
 - [Software Engineering](https://exenova.dk/competencies/software-engineering/): Building and operating applications, with architecture, integration, testing and security.
+- [Marketing, Sales & Communication](https://exenova.dk/competencies/marketing-sales-and-communication/): Planning online campaigns and content that drive conversion, alongside sales enablement and client communication.
+- [Design & User Experience](https://exenova.dk/competencies/design-and-user-experience/): Designing user-centred interfaces and activities, informed by user research and usability testing.
+- [Client & Vendor Management](https://exenova.dk/competencies/client-and-vendor-management/): Working with clients and partners on scope, solution advisory, delivery and support.
+- [Project & Programme Delivery](https://exenova.dk/competencies/project-and-programme-delivery/): Planning work with clients and teams, coordinating delivery and improving delivery processes.
+- [Community, Volunteering & Events](https://exenova.dk/competencies/community-volunteering-and-events/): Planning volunteer activities and facilitating participation, with experience in camps and year-round programmes.
+- [AI, Data & Emerging Technology](https://exenova.dk/competencies/ai-data-and-emerging-technology/): Building software and knowledge workflows with AI, structured data and semantic search.
 
 ## Contact
 
