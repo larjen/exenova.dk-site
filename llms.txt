@@ -36,17 +36,17 @@ Currently exploring AI: limits, possibilities and impact. I believe that applied
 - [Courses in Computer Sciences – ITU](https://exenova.dk/education/courses-in-computer-sciences-itu/): 2001 – Jan 2006. Non-degree coursework in computer science at ITU, the IT University of Copenhagen.
 - [Computer Sciences – RUC](https://exenova.dk/education/computer-sciences-ruc/): Sep 1996 – Jan 2001. Computer Sciences (Datalogi) at RUC, in a B.A. with International Development Studies as the second subject, awarded in January 2001.
 
-## Competencies
+## Expertise
 
-- [Business & Product Strategy](https://exenova.dk/competencies/business-and-product-strategy/): Setting business and product strategy: market positioning, P&L, strategic partnerships, M&A and product roadmap.
-- [Leadership & People Management](https://exenova.dk/competencies/leadership-and-people-management/): Leading teams through organizational change, and developing people.
-- [Software Engineering](https://exenova.dk/competencies/software-engineering/): Building and operating applications, with architecture, integration, testing and security.
-- [Marketing, Sales & Communication](https://exenova.dk/competencies/marketing-sales-and-communication/): Planning online campaigns and content that drive conversion, alongside sales enablement and client communication.
-- [Design & User Experience](https://exenova.dk/competencies/design-and-user-experience/): Designing user-centred interfaces and activities, informed by user research and usability testing.
-- [Client & Vendor Management](https://exenova.dk/competencies/client-and-vendor-management/): Working with clients and partners on scope, solution advisory, delivery and support.
-- [Project & Programme Delivery](https://exenova.dk/competencies/project-and-programme-delivery/): Planning work with clients and teams, coordinating delivery and improving delivery processes.
-- [Community, Volunteering & Events](https://exenova.dk/competencies/community-volunteering-and-events/): Planning volunteer activities and facilitating participation, with experience in camps and year-round programmes.
-- [AI, Data & Emerging Technology](https://exenova.dk/competencies/ai-data-and-emerging-technology/): Building software and knowledge workflows with AI, structured data and semantic search.
+- [Business & Product Strategy](https://exenova.dk/expertise/business-and-product-strategy/): Setting business and product strategy: market positioning, P&L, strategic partnerships, M&A and product roadmap.
+- [Leadership & People Management](https://exenova.dk/expertise/leadership-and-people-management/): Leading teams through organizational change, and developing people.
+- [Software Engineering](https://exenova.dk/expertise/software-engineering/): Building and operating applications, with architecture, integration, testing and security.
+- [Marketing, Sales & Communication](https://exenova.dk/expertise/marketing-sales-and-communication/): Planning online campaigns and content that drive conversion, alongside sales enablement and client communication.
+- [Design & User Experience](https://exenova.dk/expertise/design-and-user-experience/): Designing user-centred interfaces and activities, informed by user research and usability testing.
+- [Client & Vendor Management](https://exenova.dk/expertise/client-and-vendor-management/): Working with clients and partners on scope, solution advisory, delivery and support.
+- [Project & Programme Delivery](https://exenova.dk/expertise/project-and-programme-delivery/): Planning work with clients and teams, coordinating delivery and improving delivery processes.
+- [Community, Volunteering & Events](https://exenova.dk/expertise/community-volunteering-and-events/): Planning volunteer activities and facilitating participation, with experience in camps and year-round programmes.
+- [AI, Data & Emerging Technology](https://exenova.dk/expertise/ai-data-and-emerging-technology/): Building software and knowledge workflows with AI, structured data and semantic search.
 
 ## Contact
 
