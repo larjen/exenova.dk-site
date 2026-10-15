@@ -10,10 +10,11 @@ Currently exploring AI: limits, possibilities and impact. I believe that applied
 
 ## Positions
 
-- [Senior Technical Business Analyst – Scalepoint](https://exenova.dk/positions/senior-technical-business-analyst-scalepoint/): Oct 2024 – Sep 2025. Analysed technical issues and advised on changes to Scalepoint’s insurance claims platform.
 - [Country Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/country-manager-visma-digital-commerce-a-s/): Apr 2018 – Jul 2022. Ran the Danish business, answering to the group.
-- [Head of Visma Esscom A/S](https://exenova.dk/positions/head-of-visma-esscom-a-s/): Apr 2018 – Jul 2022. Managed employees and daily operations at Visma Esscom’s Danish subsidiary, reporting to the Swedish parent.
 - [Product Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/product-manager-visma-digital-commerce-a-s/): Aug 2016 – Jul 2022. Managed WPCloud, Visma Digital Commerce’s content and commerce platform, and its Nordic development team.
+- [Senior Technical Business Analyst – Scalepoint](https://exenova.dk/positions/senior-technical-business-analyst-scalepoint/): Oct 2024 – Sep 2025. Analysed technical issues and advised on changes to Scalepoint’s insurance claims platform.
+- [Head of Visma Esscom A/S](https://exenova.dk/positions/head-of-visma-esscom-a-s/): Apr 2018 – Jul 2022. Managed employees and daily operations at Visma Esscom’s Danish subsidiary, reporting to the Swedish parent.
+- [Volunteer – Red Cross Youth](https://exenova.dk/positions/volunteer-red-cross-youth/): Jan 2000 – Dec 2015. Volunteered at Red Cross Youth’s annual holiday camp for children with disabilities and other support needs.
 - [Frontend Architect – Trendsales ApS](https://exenova.dk/positions/frontend-architect-trendsales-aps/): Jun 2014 – Jul 2015. Handled frontend development and platform maintenance for the Trendsales marketplace.
 - [Systems Developer – THANK YOU design studio](https://exenova.dk/positions/systems-developer-thank-you-design-studio/): Feb 2014 – Jun 2014. Developed THANK YOU design studio’s video-based portfolio website and its build process.
 - [Frontend Architect – Infopaq](https://exenova.dk/positions/frontend-architect-infopaq/): Jun 2012 – May 2013. Designed the user experience and frontend architecture of Infopaq’s news-feed application.
@@ -22,9 +23,8 @@ Currently exploring AI: limits, possibilities and impact. I believe that applied
 - [Systems Developer – TRIPLE LBi](https://exenova.dk/positions/systems-developer-triple-lbi/): Jun 2008 – Dec 2010. Coordinated frontend delivery and build systems as a technical project manager at TRIPLE LBi.
 - [Systems Developer – FIH Erhvervsbank](https://exenova.dk/positions/systems-developer-fih-erhvervsbank/): Mar 2008 – May 2008. Worked as lead developer of FIH Erhvervsbank’s online banking application for private investors.
 - [Systems Developer – Framfab](https://exenova.dk/positions/systems-developer-framfab/): Jan 2006 – Mar 2008. Developed and integrated client websites and applications at Framfab.
-- [Systems Developer – Realtime A/S](https://exenova.dk/positions/systems-developer-realtime-a-s/): Dec 2001 – Feb 2002. Developed browser applications and integrations during a fixed-term contract at Realtime.
 - [Self-employed – Exenova](https://exenova.dk/positions/self-employed-exenova/): Sep 2000 – Dec 2003. Ran Exenova as an independent web-development business alongside studies.
-- [Volunteer – Red Cross Youth](https://exenova.dk/positions/volunteer-red-cross-youth/): Jan 2000 – Dec 2015. Volunteered at Red Cross Youth’s annual holiday camp for children with disabilities and other support needs.
+- [Systems Developer – Realtime A/S](https://exenova.dk/positions/systems-developer-realtime-a-s/): Dec 2001 – Feb 2002. Developed browser applications and integrations during a fixed-term contract at Realtime.
 - [Systems Developer – Ekstra Bladet](https://exenova.dk/positions/systems-developer-ekstra-bladet/): Oct 1999 – Feb 2001. Developed Ekstra Bladet’s news portal, covering information architecture and digital project delivery.
 - [Systems Developer – Berlingske Media](https://exenova.dk/positions/systems-developer-berlingske-media/): Apr 1999 – Dec 1999. Developed publishing software and interactive advertising for Berlingske Media.
 - [Scout Leader – KFUM Spejderne Slagelse](https://exenova.dk/positions/scout-leader-kfum-spejderne-slagelse/): Jan 1989 – Dec 1998. Led children’s and adults’ scouting activities as a volunteer with KFUM Spejderne Slagelse.
