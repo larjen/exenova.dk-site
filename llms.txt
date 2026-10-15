@@ -11,9 +11,9 @@ Currently exploring AI: limits, possibilities and impact. I believe that applied
 ## Positions
 
 - [Senior Technical Business Analyst – Scalepoint](https://exenova.dk/positions/senior-technical-business-analyst-scalepoint/): Oct 2024 – Sep 2025. Analysed technical issues and advised on changes to Scalepoint’s insurance claims platform.
-- [Country Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/country-manager-visma-digital-commerce-a-s/): Apr 2018 – Sep 2022. Ran the Danish business, answering to the group.
-- [Head of Visma Esscom A/S](https://exenova.dk/positions/head-of-visma-esscom-a-s/): Apr 2018 – Sep 2022. Managed employees and daily operations at Visma Esscom’s Danish subsidiary, reporting to the Swedish parent.
-- [Product Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/product-manager-visma-digital-commerce-a-s/): Aug 2016 – Sep 2022. Managed WPCloud, Visma Digital Commerce’s content and commerce platform, and its Nordic development team.
+- [Country Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/country-manager-visma-digital-commerce-a-s/): Apr 2018 – Jul 2022. Ran the Danish business, answering to the group.
+- [Head of Visma Esscom A/S](https://exenova.dk/positions/head-of-visma-esscom-a-s/): Apr 2018 – Jul 2022. Managed employees and daily operations at Visma Esscom’s Danish subsidiary, reporting to the Swedish parent.
+- [Product Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/product-manager-visma-digital-commerce-a-s/): Aug 2016 – Jul 2022. Managed WPCloud, Visma Digital Commerce’s content and commerce platform, and its Nordic development team.
 - [Frontend Architect – Trendsales ApS](https://exenova.dk/positions/frontend-architect-trendsales-aps/): Jun 2014 – Jul 2015. Handled frontend development and platform maintenance for the Trendsales marketplace.
 - [Systems Developer – THANK YOU design studio](https://exenova.dk/positions/systems-developer-thank-you-design-studio/): Feb 2014 – Jun 2014. Developed THANK YOU design studio’s video-based portfolio website and its build process.
 - [Frontend Architect – Infopaq](https://exenova.dk/positions/frontend-architect-infopaq/): Jun 2012 – May 2013. Designed the user experience and frontend architecture of Infopaq’s news-feed application.
