@@ -1,0 +1,13 @@
+/* TEAM */
+Author: Lars Jensen
+Site: https://exenova.dk/
+LinkedIn: https://www.linkedin.com/in/larsjensendenmark/
+GitHub: https://github.com/larjen/
+Location: Copenhagen, Denmark
+
+/* SITE */
+Language: English
+Standards: HTML5, CSS3, Open Graph, schema.org JSON-LD
+Components: Astro, React, Tailwind CSS, D3, Lucide icons, Instrument Sans, vanilla-cookieconsent
+Content: Built from a private vault of Markdown notes; the graph and the timeline are drawn from it at build time
+Hosting: GitHub Pages

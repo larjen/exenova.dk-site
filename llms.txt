@@ -1,0 +1,59 @@
+# Lars Jensen
+
+> Senior IT-manager with experience in technology, strategy and leadership.
+
+Digital Transformation | Senior IT Manager | MBA
+
+I focus on how technology can be used, how it supports business needs, and how people and machines work best together. I am curious about how we best set the frame and direction for organizations, people and strategy in a changing world.
+
+I try to earn the trust that a successful collaboration depends on, one built on aligned expectations, openness and psychological safety.
+
+My experience spans development, product, business and people management. I hold a BA in Computer Sciences and an Executive MBA. Among other things, I have run Visma Digital Commerce A/S, built SaaS solutions, driven strategy and advised companies.
+
+My ambition is to work meaningfully with the opportunities new technology gives us. I thrive on challenges and am curious about where technology, society and business are heading.
+
+## Positions
+
+- [Country Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/country-manager-visma-digital-commerce-a-s/): Apr 2018 – Jul 2022. Ran the Danish business, answering to the group.
+- [Product Manager – Visma Digital Commerce A/S](https://exenova.dk/positions/product-manager-visma-digital-commerce-a-s/): Aug 2016 – Jul 2022. Managed WPCloud, Visma Digital Commerce’s content and commerce platform, and its Nordic development team.
+- [Senior Technical Business Analyst – Scalepoint](https://exenova.dk/positions/senior-technical-business-analyst-scalepoint/): Oct 2024 – Sep 2025. Analysed technical issues and advised on changes to Scalepoint’s insurance claims platform.
+- [Head of Operations – Visma Esscom A/S](https://exenova.dk/positions/head-of-operations-visma-esscom-a-s/): Apr 2018 – Jul 2022. Managed employees and daily operations at Visma Esscom’s Danish subsidiary, reporting to the Swedish parent.
+- [Solution Manager – Interform](https://exenova.dk/positions/solution-manager-interform/): Oct 2026 – present. Manages InterformNG2 solution packages, implementation methods and migration approaches at Interform.
+- [Volunteer – Red Cross Youth](https://exenova.dk/positions/volunteer-red-cross-youth/): Jan 2000 – Dec 2015. Volunteered at Red Cross Youth’s annual holiday camp for children with disabilities and other support needs.
+- [Frontend Architect – Trendsales ApS](https://exenova.dk/positions/frontend-architect-trendsales-aps/): Jun 2014 – Jul 2015. Handled frontend development and platform maintenance for the Trendsales marketplace.
+- [Systems Developer – THANK YOU design studio](https://exenova.dk/positions/systems-developer-thank-you-design-studio/): Feb 2014 – Jun 2014. Developed THANK YOU design studio’s video-based portfolio website and its build process.
+- [Frontend Architect – Infopaq](https://exenova.dk/positions/frontend-architect-infopaq/): Jun 2012 – May 2013. Designed the user experience and frontend architecture of Infopaq’s news-feed application.
+- [Systems Developer – Zmags](https://exenova.dk/positions/systems-developer-zmags/): Apr 2012 – Jun 2012. Reviewed Zmags’ core application architecture and behaviour on mobile devices.
+- [Frontend Architect – Theilgaard Mortensen A/S](https://exenova.dk/positions/frontend-architect-theilgaard-mortensen-a-s/): Jan 2011 – Apr 2012. Led frontend architecture for e-commerce clients using IBM WebSphere Commerce, with a development team in India.
+- [Systems Developer – TRIPLE LBi](https://exenova.dk/positions/systems-developer-triple-lbi/): Jun 2008 – Dec 2010. Coordinated frontend delivery and build systems as a technical project manager at TRIPLE LBi.
+- [Systems Developer – FIH Erhvervsbank](https://exenova.dk/positions/systems-developer-fih-erhvervsbank/): Mar 2008 – May 2008. Worked as lead developer of FIH Erhvervsbank’s online banking application for private investors.
+- [Systems Developer – Framfab](https://exenova.dk/positions/systems-developer-framfab/): Jan 2006 – Mar 2008. Developed and integrated client websites and applications at Framfab.
+- [Self-employed – Exenova](https://exenova.dk/positions/self-employed-exenova/): Sep 2000 – Dec 2003. Ran Exenova as an independent web-development business alongside studies.
+- [Systems Developer – Realtime A/S](https://exenova.dk/positions/systems-developer-realtime-a-s/): Dec 2001 – Feb 2002. Developed browser applications and integrations during a fixed-term contract at Realtime.
+- [Systems Developer – Ekstra Bladet](https://exenova.dk/positions/systems-developer-ekstra-bladet/): Oct 1999 – Feb 2001. Developed Ekstra Bladet’s news portal, covering information architecture and digital project delivery.
+- [Systems Developer – Berlingske Media](https://exenova.dk/positions/systems-developer-berlingske-media/): Apr 1999 – Dec 1999. Developed publishing software and interactive advertising for Berlingske Media.
+- [Scout Leader – KFUM Spejderne Slagelse](https://exenova.dk/positions/scout-leader-kfum-spejderne-slagelse/): Jan 1989 – Dec 1998. Led children’s and adults’ scouting activities as a volunteer with KFUM Spejderne Slagelse.
+
+## Education
+
+- [Executive MBA – Niels Brock](https://exenova.dk/education/executive-mba-niels-brock/): Jan 2021 – Nov 2023. Executive MBA covering strategy, people development, finance, operations and international marketing, taken alongside work in technology and management.
+- [Courses in Computer Sciences – DTU](https://exenova.dk/education/courses-in-computer-sciences-dtu/): Sep 2004 – Jan 2005. Non-degree coursework in computer security at DTU, covering cryptography, access control and network security.
+- [Courses in Computer Sciences – ITU](https://exenova.dk/education/courses-in-computer-sciences-itu/): 2001 – Jan 2006. Non-degree coursework in computer science at ITU, the IT University of Copenhagen.
+- [Computer Sciences – RUC](https://exenova.dk/education/computer-sciences-ruc/): Sep 1996 – Jan 2001. Computer Sciences (Datalogi) at RUC, in a B.A. with International Development Studies as the second subject, awarded in January 2001.
+
+## Expertise
+
+- [Business & Product Strategy](https://exenova.dk/expertise/business-and-product-strategy/): Setting business and product strategy: market positioning, P&L, strategic partnerships, M&A and product roadmap.
+- [Leadership & People Management](https://exenova.dk/expertise/leadership-and-people-management/): Leading teams through organizational change, and developing people.
+- [Software Engineering](https://exenova.dk/expertise/software-engineering/): Building and operating applications, with architecture, integration, testing and security.
+- [Marketing, Sales & Communication](https://exenova.dk/expertise/marketing-sales-and-communication/): Planning online campaigns and content that drive conversion, alongside sales enablement and client communication.
+- [Client & Vendor Management](https://exenova.dk/expertise/client-and-vendor-management/): Working with clients and partners on scope, solution advisory, delivery and support.
+- [Design & User Experience](https://exenova.dk/expertise/design-and-user-experience/): Designing user-centred interfaces and activities, informed by user research and usability testing.
+- [Project & Programme Delivery](https://exenova.dk/expertise/project-and-programme-delivery/): Planning work with clients and teams, coordinating delivery and improving delivery processes.
+- [Community, Volunteering & Events](https://exenova.dk/expertise/community-volunteering-and-events/): Planning volunteer activities and facilitating participation, with experience in camps and year-round programmes.
+- [AI, Data & Emerging Technology](https://exenova.dk/expertise/ai-data-and-emerging-technology/): Building software and knowledge workflows with AI, structured data and semantic search.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/larsjensendenmark/)
+- [GitHub](https://github.com/larjen/)
