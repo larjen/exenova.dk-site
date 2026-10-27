@@ -1,0 +1,1 @@
+import{r as e}from"./contact.Blws6rZt.js";var t=`home`,n=[{value:t,label:`Home`,href:`/`},{value:e,label:`Contact`,href:e}];export{t as n,n as t};
